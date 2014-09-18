@@ -25,4 +25,11 @@ queue= function() {
 s= new stack();
 q= new queue();
 
-
+// s.push(4);
+// s.push(2);
+// s.push(19);
+// console.log(s.pop());
+// console.log(s);
+// q.queue(5);
+// q.queue(8);
+// console.log(q.dequeue());
